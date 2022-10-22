@@ -1,6 +1,5 @@
 venv 
 *.pyc 
-_pycache_ 
-local_settings.py 
+_pycache_  
 .idea 
 db.sqlite3
